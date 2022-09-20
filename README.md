@@ -25,7 +25,7 @@ Stikethrough uses two tildes. ~~Scratch this~~.
 4. And another item.
  ...* note 1
     ...* note 2
-   *** note 3
+ >>>  *** note 3
   
 
 ---
@@ -62,5 +62,5 @@ The outer pipes(|) are optional, and you don't need to make the raw Markdon line
 
 | Markdown  | Less | Pretty |
 |:-----------|:-----------:|-----------:|
-|*still*|render|**nicely**|
+|*still*|`render`|**nicely**|
 |1|2|3|
