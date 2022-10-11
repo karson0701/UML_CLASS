@@ -61,4 +61,4 @@ digraph {
       no10->no11
 }
 
-![PERT](pert.jpg "pert")
+![pert](pert.PNG "pert")
