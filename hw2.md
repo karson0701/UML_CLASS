@@ -61,4 +61,4 @@ digraph {
       no10->no11
 }
 
-![pert](pert.PNG "pert")
+![image](https://github.com/karson0701/UML_CLASS/blob/main/pert.png)
